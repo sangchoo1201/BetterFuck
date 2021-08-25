@@ -1,0 +1,12 @@
+# This is example betterfuck code
+# This gets two input and prints double of their sum
+
+input
+select $1
+input
+add $0
+select -1
+set $1
+add $1
+output
+exit
