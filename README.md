@@ -4,6 +4,11 @@ A useful language to generate working brainfk code.
 
 to use: write the code in 'input.btf' and run 'betterfuck.py'
 
+'betterfuck.py' is just for generate brainfuck code, 
+but 'betterfuck_compiler.py' generates brainfuck code and runs it through online site.
+
+You need 'selenium' python module to run 'betterfuck_compiler.py'.
+
 betterfuck guide:
 ```
 betterfuck has 9 keywords.
